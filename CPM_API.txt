@@ -1,0 +1,12 @@
+Customer's Products Management API for Admin (CPM API for Admin)
+
+
+.NET core 6
+AutoMaper
+EnitityFrameworkCore with SQL
+Swashbuckle
+Versionsing
+Authentication (JWT)
+UnitTests (NUnit, Moq)
+
+
