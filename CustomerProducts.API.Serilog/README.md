@@ -1,15 +1,15 @@
-### CustomerProducts API
+# CustomerProducts API
 
 ## This is sample application for self learning which includes the fowlwloing features
 
-# SQL with code first approach by using EntityFrameworkCore
+### SQL with code first approach by using EntityFrameworkCore
 
-# Serilog for logging
+### Serilog for logging
 
-# auto mapper for DTO and Entity models
+### auto mapper for DTO and Entity models
 
-# nunit and moq for Unit testing
+### nunit and moq for Unit testing
 
-# JWT token
+### JWT token
 
-# docker with Windows OS host
+### docker with Windows OS host
