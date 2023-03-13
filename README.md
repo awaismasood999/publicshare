@@ -13,3 +13,5 @@
 ### JWT token
 
 ### docker with Windows OS host
+
+### SwashBuckle for API swagger
